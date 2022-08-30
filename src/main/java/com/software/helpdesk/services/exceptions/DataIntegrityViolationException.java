@@ -12,6 +12,4 @@ public class DataIntegrityViolationException extends RuntimeException{
 		super(message);
 	}
 	
-	
-
 }
